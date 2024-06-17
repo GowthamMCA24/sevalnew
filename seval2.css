@@ -192,17 +192,17 @@ main p{
    }
    .one{
     margin-left: 0px;
-    position: static;
+    position: relative;
    }
    .two{
     margin-left: 280px;
     margin-top:-250px;
-    position: static;
+    position: relative;
    }
    .three{
     margin-left: 550px;
     margin-top: -320px;
-    position: static;
+    position: relative;
    }
    .text h2{
     text-align: center;
